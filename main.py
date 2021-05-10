@@ -13,4 +13,3 @@ Ejercicios de la semana 1
 #from _08semana01clase03.funciones import *
 #resultado = funcionSuma2 ( 20, 30)
 #print (resultado)
-
