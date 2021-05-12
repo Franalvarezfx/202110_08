@@ -18,5 +18,7 @@ Ejercicios de la semana 1
 resultado = funcionSuma2 ( 20, 30)
 print (resultado)
 '''
+'''
+import _08semana02clase05'''
 
-import _08semana02clase05
+import _08semana02clase06
