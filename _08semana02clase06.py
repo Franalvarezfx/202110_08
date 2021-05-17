@@ -130,3 +130,6 @@ diccionarios()
 
 #3. Quedamos por Clase 10 ( Acceder a valor de clave )
 #para la proxima sesión el dia lunes 17 de mayo
+#la sesion se encuentra en la clase 7
+
+

@@ -21,4 +21,11 @@ print (resultado)
 '''
 import _08semana02clase05'''
 
-import _08semana02clase06
+'''import _08semana02clase06'''
+
+
+'''import _08semana03clase07'''
+
+'''import _08semana03clase07_ejercicio'''
+
+import _08semana03clase07_ejercicio2
