@@ -53,3 +53,6 @@ diccionario ['nota1'] = float(input("Ingrese la nota 1: "))
 diccionario ['nota2'] = float(input("Ingrese la nota 2: "))
 diccionario ['nota3'] = float(input("Ingrese la nota 3: ")) 
 print (validacionNota4(diccionario))
+
+
+###El dia de mañana martes 18 de mayo comenzamos ciclos y listas
