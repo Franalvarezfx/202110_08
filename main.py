@@ -28,4 +28,6 @@ import _08semana02clase05'''
 
 '''import _08semana03clase07_ejercicio'''
 
-import _08semana03clase07_ejercicio2
+'''import _08semana03clase07_ejercicio2'''
+
+import _08semana03clase08

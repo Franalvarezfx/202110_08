@@ -10,7 +10,8 @@ def validacionNota4 (notas:dict) -> dict:
     variableNota2 = float(notas['nota2'])
     variableNota3 = float(notas['nota3'])
 
-    promedio = (variableNota1 + variableNota2 + variableNota3) / 3
+    #promedio = (variableNota1 + variableNota2 + variableNota3) / 3
+    promedio = (sum(notas.values())) / len (notas)
     promedio = round (promedio,2)
     salida = ' '
     notasInvalidas = variableNota1 < 0.0 or variableNota2 < 0.0 or variableNota3 < 0.0 or variableNota1 > 5.0 or variableNota2 > 5.0 or variableNota3 > 5.0 
