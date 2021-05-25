@@ -30,4 +30,12 @@ import _08semana02clase05'''
 
 '''import _08semana03clase07_ejercicio2'''
 
-import _08semana03clase08
+'''import _08semana03clase08'''
+
+'''import _08semana03clase09'''
+
+'''import _08semana03clase10'''
+
+'''import _08semana04clase11'''
+
+import _08semana04clase11_ejercicio
