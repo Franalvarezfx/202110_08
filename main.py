@@ -44,5 +44,9 @@ import _08semana02clase05'''
 
 '''import _08semana04clase12EjercicioCRUD'''
 
-import _08semana04clase13
-import _08semana04clase13Conversion
+# import _08semana04clase13
+# import _08semana04clase13Conversion
+
+# import _08semana05clase14ProgFuncional
+
+import _08semana05clase14ManipColecciones

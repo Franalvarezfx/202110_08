@@ -13,7 +13,7 @@ def conversion():
     conjunto = set (cadena)
     print ('conjunto = ',conjunto)
     # {'c', 'a', 'e', 'g', 'f', 'b', 'd'}
-conversion()
+conversion() 
     
 
 
@@ -81,3 +81,27 @@ def conversionDiccionario():
 
     
 conversionDiccionario()
+
+#conversionDiccionario()
+
+def conversionDiccionarioTo ():
+    diccionario = {0:'h', 1:'o', 2:'l', 3:'a'}
+    
+    dicToTexto = ''.join ( diccionario.values() )
+    print ('dicToTexto = ', dicToTexto) #hola
+    
+    texto = ''
+    for clave, valor in diccionario.items():
+        texto += str(clave) +' '
+    print ('texto = ', texto)
+    
+    listaValores = list( diccionario.values() )
+    print ('listaValores = ', listaValores) #['h', 'o', 'l', 'a']
+    
+    tuplaValores = tuple(diccionario.values() )
+    print ('tuplaValores = ', tuplaValores) #('h', 'o', 'l', 'a')
+    
+    tuplaLlavesYValores = list (diccionario.items())
+    print ('tuplaLlavesYValores = ', tuplaLlavesYValores) #[(0, 'h'), (1, 'o'), (2, 'l'), (3, 'a')]
+    
+conversionDiccionarioTo()
