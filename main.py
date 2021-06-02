@@ -49,4 +49,8 @@ import _08semana02clase05'''
 
 # import _08semana05clase14ProgFuncional
 
-import _08semana05clase14ManipColecciones
+# import _08semana05clase14ManipColecciones
+
+# import _08semana05clase15MpFilterReduce
+
+_08semana05clase16Numpy
