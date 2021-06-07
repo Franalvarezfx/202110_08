@@ -53,4 +53,6 @@ import _08semana02clase05'''
 
 # import _08semana05clase15MpFilterReduce
 
-import _08semana05clase16Numpy
+# import _08semana05clase16Numpy
+import pandas as pd
+import _08semana06clase17Pandas
