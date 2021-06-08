@@ -1,6 +1,4 @@
-# ejemplo de dataframes 
-# _08semana06clase17EjercicioPandas.py
-def funcionReto5 (nombreDelArchivo: str) -> dict:
+# def funcionReto5 (nombreDelArchivo: str) -> dict:
     import pandas as pd
     dataFrame = pd.read_csv(nombreDelArchivo)
     # print (dataFrame)
@@ -24,4 +22,6 @@ def funcionReto5 (nombreDelArchivo: str) -> dict:
 
 print (funcionReto5('titanic3.csv'))
 
-# {'promedioEdades': 29.8811345124283, 'edadMayor': 80.0, 'edadMenor': 0.1667, 'promedioTarifa': 33.3}
+# {'promedioEdades': 29.8811345124283, 'edadMayor': 80.0, 'edadMenor': 0.1667, 'promedioTarifa': 33.3}ejemplo de dataframes 
+# _08semana06clase17EjercicioPandas.py
+
