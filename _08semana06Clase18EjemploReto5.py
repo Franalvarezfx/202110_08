@@ -1,3 +1,5 @@
+# ejemplo de dataframes 
+# _08semana06clase17EjercicioPandas.py
 def funcionReto5 (nombreDelArchivo: str) -> dict:
     import pandas as pd
     dataFrame = pd.read_csv(nombreDelArchivo)
@@ -16,7 +18,7 @@ def funcionReto5 (nombreDelArchivo: str) -> dict:
     diccionarioSalida ['edadMayor'] = edadMayor 
     diccionarioSalida ['edadMenor'] = edadMenor
     diccionarioSalida ['promedioTarifa'] = promedioTarifa
-    
+
     return diccionarioSalida
 
 
