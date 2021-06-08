@@ -1,3 +1,5 @@
+import numpy as np
+import pandas as pd
 '''
 Archivo principal de trabajo de todas las sesiones
 Recuerde que todos los archivos de trabajo se encuentran en la plataforma
@@ -54,5 +56,12 @@ import _08semana02clase05'''
 # import _08semana05clase15MpFilterReduce
 
 # import _08semana05clase16Numpy
-import pandas as pd
-import _08semana06clase17Pandas
+# import pandas as pd
+# import _08semana06clase17Pandas
+# comando para instalar pandas pip install pandas
+
+
+# import _08semana06Clase18archivos
+
+
+import _08semana06Clase18EjemploReto5
