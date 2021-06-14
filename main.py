@@ -1,5 +1,4 @@
-import numpy as np
-import pandas as pd
+
 '''
 Archivo principal de trabajo de todas las sesiones
 Recuerde que todos los archivos de trabajo se encuentran en la plataforma
@@ -64,4 +63,6 @@ import _08semana02clase05'''
 # import _08semana06Clase18archivos
 
 
-import _08semana06Clase18EjemploReto5
+# import _08semana06Clase18EjemploReto5
+
+import _08semana07POOEjemplo1

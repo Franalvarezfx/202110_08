@@ -1,4 +1,4 @@
-# def funcionReto5 (nombreDelArchivo: str) -> dict:
+def funcionReto5 (nombreDelArchivo: str) -> dict:
     import pandas as pd
     dataFrame = pd.read_csv(nombreDelArchivo)
     # print (dataFrame)
