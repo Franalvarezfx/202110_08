@@ -65,4 +65,8 @@ import _08semana02clase05'''
 
 # import _08semana06Clase18EjemploReto5
 
-import _08semana07POOEjemplo1
+# import _08semana07POOEjemplo1
+
+# import _08semana07POOEjemplo2
+
+import _08semana07POOEjemplo3
